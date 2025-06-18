@@ -23,7 +23,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,js,nodejs,react,vue,python,php,laravel,mysql,git,docker,kubernetes" />
+        <img src="https://skillicons.dev/icons?i=dotnet,cs,flutter,dart,js,nodejs,react,vue,python,tensorflow,scikitlearn,php,laravel,mysql,postgres,git,docker,kubernetes&perline=9" />
     </a>
 </p>
 
@@ -31,13 +31,12 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=latiefdole&show_icons=true&locale=en&theme=dark&bg_color=00000000" alt="Latief Dole's GitHub stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latiefdole&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Latief Dole's Top Languages" />
-    <br />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latiefdole&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Latief Dole's Top Languages" />
+ <br />
+<img src="https://github-readme-stats.vercel.app/api?username=latiefdole&show_icons=true&locale=en&theme=dark&bg_color=00000000" alt="Latief Dole's GitHub stats" /> <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latiefdole&" alt="latiefdole" />
-<img src="https://github-profile-trophy.vercel.app/?username=latiefdole" alt="latiefdole" />
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=latiefdole" alt="latiefdole" /> -->
 </p>
 
 ---
